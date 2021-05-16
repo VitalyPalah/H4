@@ -1,0 +1,48 @@
+#site_header{
+    color: #ffffff;
+    background-color: #a62a2a;
+    text-align: center;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    width: 780px;
+}
+
+#main_img{
+    width: 760px;
+    height: 220px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+#first_paragraph{
+    margin-left: 10px;
+    width: 780px;
+}
+
+#photos{
+    margin-left: 215px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#color_text{
+    color: blue;
+}
+
+#second_paragraph{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 780px;
+}
+
+#copyright{
+    margin-top: 40px;
+    width: 780px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    height: 20px;
+    margin-bottom: 35px;
+}
